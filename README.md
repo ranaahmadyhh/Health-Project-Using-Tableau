@@ -11,19 +11,19 @@ Welcome to the Health Dataset Analysis project! In this project, I analyzed a he
 ### 1. **Average Lung Cancer Numbers per Continent and Gender** 🌍
 - **Visualization**: Displays the average number of lung cancer cases per continent and gender.
 - **Insight**: Asia has the highest number of lung cancer cases among both genders.
-<img src="https://github.com/user-attachments/assets/ce56d157-02b1-4d53-a9f0-6ea6a0b01212" width="500" length="500">
+<img src="https://github.com/user-attachments/assets/ce56d157-02b1-4d53-a9f0-6ea6a0b01212" width="500" height="500">
 
 ### 2. **Average Stomach Cancer Numbers per Continent** 🍽️
 - **Visualization**: Summarizes average stomach cancer numbers per continent.
 - **Insight**: Asia also leads in the highest average stomach cancer cases.
 
-<img src="https://github.com/user-attachments/assets/779e93b5-f8be-4f1a-98d2-54d08f59fb8c" width="500" length="500">
+<img src="https://github.com/user-attachments/assets/779e93b5-f8be-4f1a-98d2-54d08f59fb8c" width="500" height="500">
 
 ### 3. **Life Expectancy per Country** 🌍🕰️
 - **Visualization**: Shows life expectancy across different countries.
 - **Insight**: Africa shows a lower life expectancy compared to Europe, highlighting potential disparities.
 
-<img src="https://github.com/user-attachments/assets/5320c4b3-cd9a-448d-80a4-2b43d8249c25" width="500">
+<img src="https://github.com/user-attachments/assets/5320c4b3-cd9a-448d-80a4-2b43d8249c25" height="300">
 
 ## 📊 Key Findings
 - **Lung Cancer**: Asia has the highest number of lung cancer cases, indicating a need for targeted awareness and healthcare programs in the region.
