@@ -1,40 +1,49 @@
-# Health Data Visualization Project 📊🌍
+# Health Dataset Analysis 📊💪
 
-Welcome to the Health Data Visualization project! In this project, I analyzed a health dataset to derive key insights on cancer rates and life expectancy around the world 🌎. I used Excel for data cleaning and calculations, and Tableau to create visually engaging dashboards.
+Welcome to the Health Dataset Analysis project! In this project, I analyzed a health dataset to uncover insights related to lung cancer, stomach cancer, and life expectancy. I used Excel for data cleaning and Tableau for visualizing the results. 
 
----
+## 🧑‍💻 Tools Used
+- **Excel**: Used for cleaning, filtering, and formatting the dataset. I also used formulas to make necessary calculations.
+- **Tableau**: Imported the cleaned data into Tableau to create 3 interactive visualizations.
 
-## 🧑‍💻 Project Workflow
+## 📈 Visualizations & Insights
 
-1. **Data Cleaning and Preparation (Excel)** 🧹  
-   I started by importing the health dataset into **Excel**. The data was cleaned and formatted, with filters applied to ensure accuracy. 
+### 1. **Average Lung Cancer Numbers per Continent and Gender** 🌍
+- **Visualization**: Displays the average number of lung cancer cases per continent and gender.
+- **Insight**: Asia has the highest number of lung cancer cases among both genders.
+<img src="https://github.com/user-attachments/assets/ce56d157-02b1-4d53-a9f0-6ea6a0b01212" width="500" length="500">
 
-2. **Data Visualization (Tableau)** 📊  
-   After preparing the dataset in Excel, I imported it into **Tableau** to create interactive and insightful visuals. Here are the three key visualizations:
+### 2. **Average Stomach Cancer Numbers per Continent** 🍽️
+- **Visualization**: Summarizes average stomach cancer numbers per continent.
+- **Insight**: Asia also leads in the highest average stomach cancer cases.
 
-   - **Average Lung Cancer Numbers per Continent and Gender** 🌍👩‍🦳👨‍🦳  
-     This visual compares lung cancer rates across different continents and genders.
+<img src="https://github.com/user-attachments/assets/779e93b5-f8be-4f1a-98d2-54d08f59fb8c" width="500" length="500">
 
-   - **Average Stomach Cancer Numbers per Continent** 🌍🦠  
-     This chart shows the global distribution of stomach cancer rates by continent.
+### 3. **Life Expectancy per Country** 🌍🕰️
+- **Visualization**: Shows life expectancy across different countries.
+- **Insight**: Africa shows a lower life expectancy compared to Europe, highlighting potential disparities.
 
-   - **Life Expectancy per Country** 🌐❤️  
-     This map visualizes the average life expectancy in countries around the world.
+<img src="https://github.com/user-attachments/assets/5320c4b3-cd9a-448d-80a4-2b43d8249c25" width="500">
 
----
+## 📊 Key Findings
+- **Lung Cancer**: Asia has the highest number of lung cancer cases, indicating a need for targeted awareness and healthcare programs in the region.
+- **Stomach Cancer**: Similar to lung cancer, Asia leads in stomach cancer, calling for research and preventive strategies for digestive health.
+- **Life Expectancy**: Africa lags behind Europe in life expectancy, which could be related to healthcare access and quality of life factors in the region.
 
-## 📈 Visuals
+## 💡 Recommendations
+- **Asia (Lung & Stomach Cancer)**: Implement awareness campaigns focused on prevention and early detection of lung and stomach cancers. Enhance healthcare infrastructure and provide access to screenings.
+- **Africa (Life Expectancy)**: Focus on improving healthcare access, nutrition, and sanitation to increase life expectancy. There should be global initiatives to invest in healthcare systems in African nations.
 
-1. **Average Lung Cancer Numbers by Continent and Gender**  
-![image](https://github.com/user-attachments/assets/ce56d157-02b1-4d53-a9f0-6ea6a0b01212)
+## Dasboard
+![image](https://github.com/user-attachments/assets/009a269e-6ef8-41b1-bd25-e8b2c06c7f26)
 
-2. **Average Stomach Cancer Numbers by Continent**  
-![image](https://github.com/user-attachments/assets/779e93b5-f8be-4f1a-98d2-54d08f59fb8c)
+## 📂 Dataset Details
+The dataset used in this project covers health statistics, including cancer rates and life expectancy across various countries and continents.
 
-3. **Life Expectancy per Country**  
-![image](https://github.com/user-attachments/assets/5320c4b3-cd9a-448d-80a4-2b43d8249c25)
+## 🔧 Installation & Usage
 
-
----
+1. **Clone the repository**:  
+   ```bash
+   git clone https://github.com/your-username/health-dataset-analysis.git
 
 
