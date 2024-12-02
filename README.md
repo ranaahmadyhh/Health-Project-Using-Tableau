@@ -34,7 +34,7 @@ Welcome to the Health Dataset Analysis project! In this project, I analyzed a he
 - **Asia (Lung & Stomach Cancer)**: Implement awareness campaigns focused on prevention and early detection of lung and stomach cancers. Enhance healthcare infrastructure and provide access to screenings.
 - **Africa (Life Expectancy)**: Focus on improving healthcare access, nutrition, and sanitation to increase life expectancy. There should be global initiatives to invest in healthcare systems in African nations.
 
-## Dasboard
+## Dashboard
 ![image](https://github.com/user-attachments/assets/009a269e-6ef8-41b1-bd25-e8b2c06c7f26)
 
 ## 📂 Dataset Details
